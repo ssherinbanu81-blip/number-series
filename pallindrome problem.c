@@ -2,7 +2,7 @@
 int main()
 {
   int n,rev=0,rem,temp;
-  scanf("%d",&n):
+  scanf("%d",&n);
     temp=n;
 while(n!=0)
   rem=n%10:
@@ -15,7 +15,7 @@ if(rev==temp)
 }
 else
 {
-printf("not palindrome"):
+printf("not palindrome");
 
   return 0;
 }
